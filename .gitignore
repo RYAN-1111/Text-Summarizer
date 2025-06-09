@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode or PyCharm or IDE config
+.vscode/
+.idea/
+
+# Jupyter Notebook Checkpoints (if any)
+.ipynb_checkpoints/
+
+# Transformer cache (can be large)
+.cache/
+huggingface/
+~/.cache/huggingface/
+
+#
